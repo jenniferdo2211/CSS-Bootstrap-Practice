@@ -1,0 +1,30 @@
+#features {
+    text-align: center;
+    padding: 7% 10%;
+    background: #fff;
+    position: relative;
+    z-index: 100;
+}
+
+#features .feature {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.feature-icon {
+    color: #ef8172;
+    margin: 1rem;
+}
+
+.feature-icon:hover {
+    color: #ff4c68;
+}
+
+#features h3 {
+    font-weight: bold;
+}
+
+#features p {
+    font-size: 1.3rem;
+    color: #8f8f8f;
+}

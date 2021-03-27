@@ -1,0 +1,21 @@
+#pricing {
+    padding: 5%;
+}
+
+#pricing .pricing-card {
+    padding: 3%;
+}
+
+#pricing h2 {
+    font-weight: 500;
+    font-size: 3rem;
+}
+
+#pricing h3 {
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+#pricing p {
+    font-size: 1.3rem;
+}
